@@ -1,0 +1,11 @@
+
+djangorestframework
+pdfminer.six
+gemini
+langchain
+faiss-cpu
+pymupdf
+numpy
+pandas
+spacy
+transformers
